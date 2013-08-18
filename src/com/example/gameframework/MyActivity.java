@@ -1,4 +1,4 @@
-package com.example.game_framework;
+package com.example.gameframework;
 
 import android.app.Activity;
 import android.os.Bundle;

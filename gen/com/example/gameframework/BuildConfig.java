@@ -1,5 +1,7 @@
+/*___Generated_by_IDEA___*/
+
 /** Automatically generated file. DO NOT MODIFY */
-package com.example.game_framework;
+package com.example.gameframework;
 
 public final class BuildConfig {
     public final static boolean DEBUG = true;
