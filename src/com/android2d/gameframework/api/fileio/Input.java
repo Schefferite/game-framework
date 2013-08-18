@@ -1,4 +1,4 @@
-package com.example.gameframework.api.fileio;
+package com.android2d.gameframework.api.fileio;
 
 /**
  * User: serg
